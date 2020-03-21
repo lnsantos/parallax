@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Parallax</string>
+
+    <string name="xuxa">Maria da Graça Xuxa Meneghel</string>
+    <string name="didi">Antônio Renato Aragão</string>
+    <string name="nepo">Lucas Nepomuceno Santos</string>
+
+    <string name="description_nepo">Um jovem que gosta de descobrir coisas novas, como o efeito de paralax
+        no android nativo, atualmente trabalha em uma empressa maravilhosa onde consegui aprender cada vez mais.
+    </string>
+
+    <string name="description_xuxa">Maria da Graça Meneghel, mais conhecida como Xuxa,
+        é uma apresentadora, atriz, cantora, empresária, filantropa e ex-modelo brasileira.
+        Conhecida como "Rainha dos Baixinhos", Xuxa construiu o maior império de entretenimento
+        infantojuvenil ibero-americano.</string>
+
+    <string name="description_didi">
+        Antônio Renato Aragão é um ator, comediante, diretor, produtor, humorista,
+        escritor, roteirista, apresentador, cantor, advogado, cineasta, empresário,
+        redator, dublador e blogueiro, famoso por liderar a série televisiva Os Trapalhões,
+        nas décadas de 1970 e 1980. É também conhecido como Didi, seu principal personagem.
+    </string>
+</resources>
